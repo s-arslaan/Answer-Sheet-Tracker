@@ -1,5 +1,5 @@
 # Answer-Sheet-Tracker
-A C++ CLI program built to make OMR (MCQ) checking easy.
+A C++ program built to make OMR (MCQ) checking easy, with options of Data storing in File and use of Colors for a better appearance of Output in Command Line Interface.
 It uses C++ classes, structure and file handling concepts to fetch, process and retrieve data.
 A user can insert multiple New Answer keys having multiple sets (Example. Science :- Set 1,2,3,4,5 ) and can store it in a file if desired.
 Entered answer keys can be processed to compare with the entered answers of a student for retrieving the result (marks that student got).
