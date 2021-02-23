@@ -7,5 +7,8 @@ The list of students along with their marks is stored in a file titling "marks.t
 Images of the main INDEX page appearing while execution along with the shots of some important Code Execution are added.
 Images of Key TXT File created when the AnswerKey_data is stored in file as Text are also uploaded for proper understanding of execution.
 
-<img src="" alt="">
+<h2>Index</h2>
+<img src="https://github.com/s-arslaan/Answer-Sheet-Tracker/blob/master/answersheet_tracker_index.png" alt="">
+
+
 <img src="https://github.com/s-arslaan/Answer-Sheet-Tracker/blob/master/answersheet_tracker_CorrectMarksheet.png" alt="">
